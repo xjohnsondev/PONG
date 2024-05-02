@@ -24,6 +24,10 @@ To play the game:
 - Each time the ball bounces off of your paddle, a point is scored
 - The game does not end, the ball will continuosly speed up as the game progresses
 
+## Screenshot
+
+![Screenshot](https://github.com/xjohnsondev/PONG/blob/main/pongSS.jpg)
+
 ## Development
 
 This game was developed using the Python Turtle library
